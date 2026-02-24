@@ -16,7 +16,6 @@ import { auth } from "./lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
 import Login from "./components/Login";
 import "./App.css";
-// import { clsx } from "clsx";
 
 function App() {
   const [step, setStep] = useState("services");

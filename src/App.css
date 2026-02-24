@@ -552,6 +552,13 @@ form {
     gap: 12px;
   }
 
+  .dashboard-filter {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 3rem;
+  }
+
   .booking-service,
   .client-email,
   .client-phone {
