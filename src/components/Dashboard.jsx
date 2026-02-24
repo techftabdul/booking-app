@@ -50,7 +50,7 @@ export default function Dashboard({
       <h2 className="dashboard-title">Admin Dashboard</h2>
       <p>View and manage scheduled bookings</p>
       <div className="dashboard-filter">
-        <button>Filters ➡️</button>
+        <button>Filters </button>
         <button
           className={filter === "upcoming" ? "active" : ""}
           onClick={() => setFilter("upcoming")}
