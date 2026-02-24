@@ -1,0 +1,63 @@
+# 📅 React Booking App
+
+A modern, responsive booking management application built with React and Firebase.  
+Designed as a reusable scheduling solution for service-based businesses such as trainers, salons, consultants, and creators.
+
+---
+
+## 🚀 Live Demo
+👉 [View Live App](https://servicesbookingapp.netlify.app/)
+
+---
+
+## ✨ Features
+
+- Service selection and booking flow
+- Date and time slot scheduling
+- Real-time booking storage (Firebase)
+- Admin dashboard with authentication
+- Booking status management (confirm / cancel / restore)
+- Upcoming / past booking filters
+- Responsive mobile-first design
+- Clean, minimalist UI
+
+---
+
+## 🧱 Tech Stack
+
+**Frontend**
+- React (Vite)
+- CSS
+- clsx (conditional styling)
+
+**Backend / Database**
+- Firebase Firestore
+- Firebase Auth
+
+**Deployment**
+- Netlify
+
+---
+
+## 🖥️ Screens
+
+- Booking flow
+- Confirmation
+- Admin dashboard
+- Mobile responsive layout
+
+---
+
+## 🔐 Admin Access
+
+The dashboard is protected by Firebase Authentication.
+
+Admins can:
+
+- View all bookings
+- Cancel or restore bookings
+- Track upcoming vs past appointments
+
+---
+
+
